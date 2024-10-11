@@ -62,6 +62,9 @@ class Rectangle:
    self.widh=20
    self.height=5
 
+   rect1=Rectangle()
+   print(f"{rect1.width}x{rect1.height}")
+
 
 
 
