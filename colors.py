@@ -15,7 +15,7 @@ class Color:
     green = 0
     blue = 0
 
-    def    __init__(self, r,g,b):
+   \
         self.red=r
         self.green=g
         self.blue=b
